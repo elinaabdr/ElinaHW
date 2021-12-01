@@ -38,6 +38,9 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="HomeWork\HomeWork1\Accomodation.cs" />
+        <Compile Include="HomeWork\HomeWork1\Hotel.cs" />
+        <Compile Include="HomeWork\HomeWork1\PrivateApartment.cs" />
         <Compile Include="IsoscelesTriangle.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
