@@ -45,6 +45,9 @@
         <Compile Include="HomeWork\HomeWork 01-12-2021\Showcase.cs" />
         <Compile Include="HomeWork\HomeWork 01-12-2021\Toy.cs" />
         <Compile Include="HomeWork\HomeWork 01-12-2021\Tree.cs" />
+        <Compile Include="HomeWork\HomeWork 08-12-2021\ComplexNumber.cs" />
+        <Compile Include="HomeWork\HomeWork 08-12-2021\RationalFraction.cs" />
+        <Compile Include="HomeWork\HomeWork 08-12-2021\StringExtension.cs" />
         <Compile Include="HomeWork\HomeWork 24-11-2021\IsoscelesTriangle.cs" />
         <Compile Include="HomeWork\HomeWork 24-11-2021\RightTriangle.cs" />
         <Compile Include="HomeWork\HomeWork 24-11-2021\Triangle.cs" />
